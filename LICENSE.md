@@ -26,9 +26,7 @@ For the full license text, please visit:
 
 This license applies to all contents of this repository, including but not limited to:
 
-- Python code files (`*.py`)
-- Images and graphics in the `/pwangirl` directory
-- Texts and voice data in `voice.py`
+- Images and graphics
 
 If you would like to use any part of this project in a commercial context, please contact the author to request permission.
 
