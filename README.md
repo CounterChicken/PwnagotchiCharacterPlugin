@@ -19,7 +19,7 @@ Each character consists of:
 
 [Youtube Video!](https://youtu.be/TjxbPM8c2LU)
 
-I made this "scrappy" tutorial explains how to install and use the character switcher plugin.
+I made this "scrappy" tutorial that explains how to install and use the character switcher plugin.
 
 Please note: English is not my native language, thanks for your understanding.
 
