@@ -55,3 +55,11 @@ Each character consists of:
    ## Notes
 
 This setup works for all character plugins that follow the same structure. You can create your own characters by providing a plugin file and a matching folder with images and voice files.
+
+## Alternative Usage Without This Plugin
+
+If you want to use the characters (face) without this plugin, you can manually apply the faces using the Face Plugin from this repository:
+
+[https://github.com/roodriiigooo/PWNAGOTCHI-CUSTOM-FACES-MOD](https://github.com/roodriiigooo/PWNAGOTCHI-CUSTOM-FACES-MOD)
+
+
