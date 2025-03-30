@@ -16,6 +16,15 @@ Each character consists of:
 
 ## Installation Guide
 
+
+[Youtube Video!](https://youtu.be/TjxbPM8c2LU)
+
+This "short" tutorial explains how to install and use the character switcher plugin.
+
+Please note: English is not my native language, thanks for your understanding.
+
+## In short:
+
 1. **Save the plugin file**
 
    Copy your plugin file (e.g., `motoko.py`) to the Pwnagotchi plugin directory:
