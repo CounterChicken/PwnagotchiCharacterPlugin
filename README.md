@@ -93,4 +93,8 @@ If you want to use the characters (face) without this plugin, you can manually a
 
 [https://github.com/roodriiigooo/PWNAGOTCHI-CUSTOM-FACES-MOD](https://github.com/roodriiigooo/PWNAGOTCHI-CUSTOM-FACES-MOD)
 
+## Credits
+
+- **Rebecca** by [Zerodya](https://github.com/Zerodya) !
+
 
