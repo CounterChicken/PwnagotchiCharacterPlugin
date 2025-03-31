@@ -23,7 +23,7 @@ This plugin lets you easily switch your Pwnagotchi's **character** — including
     <td><img src="Bat%20Trinity%20Plugin/c_battrinity/AWAKE.png" alt="Bat Trinity Preview" width="120"/></td>
     <td><img src="Motoko%20Plugin/c_motoko/AWAKE.png" alt="Motoko Preview" width="120"/></td>
     <td>
-      <img src="Rebecca%20Plugin/c_rebecca/AWAKE.png" alt="Rebecca Preview" width="120"/><br/>
+      <img src="Rebecca%20Plugin/c_rebecca/AWAKE.png" alt="Rebecca Preview" width="90"/><br/>
       <sub>Character by <a href="https://github.com/Zerodya" target="_blank">Zerodya</a></sub>
     </td>
   </tr>
