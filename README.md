@@ -29,21 +29,26 @@ This plugin lets you easily switch your Pwnagotchi's **character** — including
   </tr>
 </table>
 
-## Structure
+## Disclaimer
 
-Each character consists of:
-
-- **Plugin file** (e.g., `motoko.py`)
-- **Character folder** (e.g., `c_motoko`)
+This is my first Pwnagotchi plugin. I had a lot of fun building it and I didn't run into any issues while using it.  
+That said, **use it at your own risk!**  
+If you encounter any problems, feel free to open an issue or contact me.
 
 ## Installation Guide
-
 
 [Youtube Video!](https://youtu.be/TjxbPM8c2LU)
 
 I made this "scrappy" tutorial that explains how to install and use the character switcher plugin.
 
 Please note: English is not my native language, thanks for your understanding.
+
+## Structure
+
+Each character consists of:
+
+- **Plugin file** (e.g., `motoko.py`)
+- **Character folder** (e.g., `c_motoko`)
 
 ## In short:
 
@@ -83,9 +88,11 @@ Please note: English is not my native language, thanks for your understanding.
    After a reboot, the new face and voice should be active.
 
 
-   ## Notes
+## Notes
 
-This setup works for all character plugins that follow the same structure. You can create your own characters by providing a plugin file and a matching folder with images and voice files.
+This setup works for all character plugins that follow the same structure.  
+You can create your own character by providing a plugin file and a matching folder with images and a voice file.  
+To create your own plugin file, copy one of the existing ones and adjust the directory and Names accordingly.
 
 ## Alternative Usage Without This Plugin
 
