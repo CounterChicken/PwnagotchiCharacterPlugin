@@ -16,6 +16,7 @@ This plugin lets you easily switch your Pwnagotchi's **character** — including
     <td align="center"><strong>Bat Trinity</strong></td>
     <td align="center"><strong>Motoko</strong></td>
     <td align="center"><strong>Rebecca</strong></td>
+    <td align="center"><strong>Edward</strong></td>
   </tr>
   <tr>
     <td><img src="Pwan%20Girl%20Plugin/c_pwangirl/AWAKE.png" alt="Pwan Girl Preview" width="120"/></td>
@@ -24,10 +25,14 @@ This plugin lets you easily switch your Pwnagotchi's **character** — including
     <td><img src="Motoko%20Plugin/c_motoko/AWAKE.png" alt="Motoko Preview" width="120"/></td>
     <td>
       <img src="Rebecca%20Plugin/c_rebecca/AWAKE.png" alt="Rebecca Preview" width="90"/><br/>
-      <sub>Character by <a href="https://github.com/Zerodya" target="_blank">Zerodya</a></sub>
+      <sub>By <a href="https://github.com/Zerodya" target="_blank">Zerodya</a></sub>
+    </td>
+    <td>
+      <img src="RadicalEdward%20Plugin/c_radicaledward/FACES_ED_MINI.png" alt="Radical Edward Preview" width="90"/><br/>
+      <sub>By <a href="https://cyberspacemanmike.com/" target="_blank">Cyberspacemanmike</a></sub>
     </td>
   </tr>
-</table>
+</table
 
 ## Disclaimer
 
@@ -103,5 +108,6 @@ If you want to use the characters (face) without this plugin, you can manually a
 ## Credits
 
 - **Rebecca** by [Zerodya](https://github.com/Zerodya) !
+- **Radical Edward** by [Cyberspacemike](https://cyberspacemanmike.com/) !
 
 
