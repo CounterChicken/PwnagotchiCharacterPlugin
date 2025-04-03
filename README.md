@@ -6,6 +6,7 @@ This plugin lets you easily switch your Pwnagotchi's **character** — including
 
 - Switch between different character personalities directly from the web UI.
 - Simple plugin and character folder structure for easy setup.
+<img src="docs/enable.png" alt="Plugin aktivieren" width="550"/>
 
 ## Character Preview
 
