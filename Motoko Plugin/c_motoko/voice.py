@@ -49,11 +49,10 @@ class Voice:
     def on_normal(self):
         return random.choice([
             self._("Steady signals. Just another node in the net."),
-            self._("No threats."),
             self._("Routine patrol through cyberspace."),
             self._("Flow constant. Ghost intact."),
             self._("Monitoring traffic. Waiting for anomalies."),
-            self._("No deviation. No interference. Yet."),
+            self._("No interference. Yet."),
         ])
 
     def on_free_channel(self, channel):
