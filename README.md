@@ -119,7 +119,7 @@ Unzip it on your PC.
 
 ## 7. Upload the character folder to the root directory
 
-Drag and drop the folder, for example `c_pwangirl`, to the root directory of your Pwnagotchi.
+Drag and drop the character folder, for example `c_pwangirl`, to the root directory of your Pwnagotchi.
 
 ![Upload Character folder](docs/Untitled_1.9.1.png)
 
@@ -137,7 +137,7 @@ Then drag and drop your plugin file (e.g., `pwangirl.py`) from your PC to this f
 
 ---
 
-You’ve installed your character plugin!
+You’ve installed your character plugin! Enter your Web interface with your Browser and enable a Character Plugin!
 
 ## Notes
 
