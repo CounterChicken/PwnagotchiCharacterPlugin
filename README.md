@@ -41,13 +41,105 @@ This is my first Pwnagotchi plugin. I had a lot of fun building it and I didn't 
 That said, **use it at your own risk!**  
 If you encounter any problems, feel free to open an issue or contact me.
 
-## Installation Guide
+# Pwnagotchi Character Plugin Installation Guide
 
-[Youtube Video!](https://youtu.be/TjxbPM8c2LU)
+This tutorial will guide you step-by-step through the process of installing a character plugin on your Pwnagotchi.
 
-I made this "scrappy" tutorial that explains how to install and use the character switcher plugin.
+---
 
-Please note: English is not my native language, thanks for your understanding.
+## 1. Access your Pwnagotchi via SSH
+
+```bash
+ssh pi@10.0.0.2
+```
+
+
+## 2. Set a root password
+
+```bash
+sudo passwd root
+```
+Enter your desired password and confirm it.
+
+![Change PW](docs/Untitled_1.3.1.png)
+
+---
+
+## 3. Enable root login in SSH
+
+Edit the SSH configuration file:
+```bash
+sudo nano /etc/ssh/sshd_config
+```
+
+Look for the line:
+```
+#PermitRootLogin prohibit-password
+```
+Change it to:
+```
+PermitRootLogin yes
+```
+Save with `Ctrl+S`, then `Enter`. Exit with `Ctrl+X`.
+
+![Allow Root Login](docs/Untitled_1.4.1.png)
+![Save SSH Config](docs/Untitled_1.4.2.png)
+
+---
+
+## 4. Restart the SSH service
+
+```bash
+sudo service ssh restart
+```
+
+---
+
+## 5. Open FileZilla and connect to your Pwnagotchi
+
+- Server: `sftp://10.0.0.2`
+- Username: `root`
+- Password: your root password
+- Port: `22`
+
+Click on "Connect".
+![Connect with FileZilla](docs/Untitled_1.6.1.png)
+
+---
+
+## 6. Download the Plugin from GitHub
+
+Go to: [https://github.com/CounterChicken/PwnagotchiCharacterPlugin](https://github.com/CounterChicken/PwnagotchiCharacterPlugin)
+
+Click on the green `Code` button and choose `Download ZIP`.
+
+Unzip it on your PC.
+
+---
+
+## 7. Upload the character folder to the root directory
+
+Drag and drop the folder, for example `c_pwangirl`, to the root directory of your Pwnagotchi.
+
+![Upload Character folder](docs/Untitled_1.9.1.png)
+
+---
+
+## 8. Upload the plugin to the plugin directory
+
+Navigate on the server to:
+```
+/usr/local/share/pwnagotchi/custom-plugins/
+```
+Then drag and drop your plugin file (e.g., `pwangirl.py`) from your PC to this folder.
+
+![Upload Plugin](docs/Untitled_1.11.1.png)
+
+---
+
+You’ve installed your character plugin!
+
+---
 
 ## Structure
 
