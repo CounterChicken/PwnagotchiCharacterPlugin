@@ -18,6 +18,7 @@ This plugin lets you easily switch your Pwnagotchi's **character** — including
     <td align="center"><strong>Motoko</strong></td>
     <td align="center"><strong>Rebecca</strong></td>
     <td align="center"><strong>Edward</strong></td>
+    <td align="center"><strong>Grunkel Stan</strong></td>
   </tr>
   <tr>
     <td><img src="Pwan%20Girl%20Plugin/c_pwangirl/AWAKE.png" alt="Pwan Girl Preview" width="120"/></td>
@@ -32,6 +33,7 @@ This plugin lets you easily switch your Pwnagotchi's **character** — including
       <img src="RadicalEdward%20Plugin/c_radicaledward/FACES_ED_MINI.png" alt="Radical Edward Preview" width="90"/><br/>
       <sub>By <a href="https://cyberspacemanmike.com/" target="_blank">Cyberspacemanmike</a></sub>
     </td>
+    <td><img src="Grunkel%20Stan%20Plugin/c_grunkelstan/AWAKE.png" alt="Grunkel Stan Preview" width="120"/></td>
   </tr>
 </table
 
