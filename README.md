@@ -30,7 +30,7 @@ This plugin lets you easily switch your Pwnagotchi's **character** — including
       <sub>By <a href="https://github.com/Zerodya" target="_blank">Zerodya</a></sub>
     </td>
     <td>
-      <img src="RadicalEdward%20Plugin/c_radicaledward/FACES_ED_MINI.png" alt="Radical Edward Preview" width="90"/><br/>
+      <img src="RadicalEdward%20Plugin/c_radicaledward/FACES_ED_MINI.jpg" alt="Radical Edward Preview" width="90"/><br/>
       <sub>By <a href="https://cyberspacemanmike.com/" target="_blank">Cyberspacemanmike</a></sub>
     </td>
     <td><img src="Grunkel%20Stan%20Plugin/c_grunkelstan/AWAKE.png" alt="Grunkel Stan Preview" width="120"/></td>
