@@ -197,17 +197,18 @@ class Voice:
 
     def on_last_session_data(self, last_session):
         # Stan bragging about his 'work'.
-        status = self._('Last time? Kicked {num} moochers!\n').format(num=last_session.deauthed)
+        status = self._('Kicked {num} moochers!\n').format(num=last_session.deauthed)
         if last_session.associated > 999:
             status += self._('Made over 999 new \'friends\'. Busy busy!\n') # Stan wouldn't count precisely past a lot.
         else:
-            status += self._('Made {num} new \'friends\'. Whatever.\n').format(num=last_session.associated)
-        status += self._('Nabbed {num} handshakes! Good stuff.\n').format(num=last_session.handshakes)
+            status += self._('Made {num} new \'friends\'.').format(num=last_session.associated)
+        status += self._('Nabbed {num} handshakes! ').format(num=last_session.handshakes)
         if last_session.peers == 1:
             status += self._('Saw 1 other yokel.')
         elif last_session.peers > 0:
             status += self._('Saw {num} other yokels out there.').format(num=last_session.peers)
         return status
+
 
     def on_last_session_tweet(self, last_session):
         # Stan's version of a status update - sounds like a shady ad.
