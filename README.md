@@ -46,6 +46,7 @@ If you encounter any problems, feel free to open an issue or contact me.
 # Pwnagotchi Character Plugin Installation Guide
 
 This tutorial will guide you step-by-step through the process of installing a character plugin on your Pwnagotchi.
+Start with step 6 if you know how to move files on your  Pwnagotchi.
 
 ---
 
